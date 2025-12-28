@@ -19,8 +19,13 @@ including task automation, process optimization, and script-based workflows.
 - Simple and extensible structure
 - Ready for future enhancements
 
-## 🚀 Status
-Initial version – more automation scripts will be added.
+## ▶️ How to Run
 
-## 🧠 Part of
-BiU – Information Technology & Communication Specialists
+### Requirements
+- Python 3.x installed on your system
+
+### Steps
+1. Open a terminal
+2. Navigate to the project directory:
+   ```bash
+   cd system-automation
